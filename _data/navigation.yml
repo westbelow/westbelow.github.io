@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://www.google.com
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Writings"
+    url: https://www.yahoo.com
+  - title: "Programming portfolio"
+    url: https://www.bing.com
   # - title: "Sitemap"
   #   url: /sitemap/
