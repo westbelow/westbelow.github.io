@@ -116,12 +116,12 @@ author:
   name             : "West Below"
   avatar           : "west.jpg"
   bio              : "Data Analyst and Published writer."
-  location         : "Somewhere"
+  # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:WestJBelow@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
