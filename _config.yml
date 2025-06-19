@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "West Below"
-  avatar           : "west.jpg"
+  avatar           : "assets/imgs/west.jpg"
   bio              : "Data Analyst and Published writer."
   # location         : "Somewhere"
   email            :
