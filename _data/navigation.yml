@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://www.google.com
   - title: "Writings"
-    url: https://www.yahoo.com
+    url: https://drive.proton.me/urls/AQ53YCQ51W#3oSwfYe82MfS
   - title: "Programming portfolio"
-    url: https://www.bing.com
+    url: https://github.com/westbelow?tab=repositories
   # - title: "Sitemap"
   #   url: /sitemap/
