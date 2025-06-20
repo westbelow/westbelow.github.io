@@ -8,5 +8,5 @@ main:
     url: https://drive.proton.me/urls/AQ53YCQ51W#3oSwfYe82MfS
   - title: "Programming portfolio"
     url: https://github.com/westbelow?tab=repositories
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
