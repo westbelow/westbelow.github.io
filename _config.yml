@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "West Below"
   avatar           : "assets/imgs/west.jpg"
-  bio              : "Data Analyst and Published writer."
-  # location         : "Somewhere"
+  bio              : "Data analyst. Published writer."
+  location         : "Lebanon, TN"
   email            :
   links:
     - label: "Email"
@@ -133,9 +133,9 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/westbelow"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/west-below-8512852b2"
 
 # Site Footer
