@@ -115,6 +115,7 @@ analytics:
 author:
   name             : "West Below"
   avatar           : "assets/imgs/west.jpg"
+  avatar_link      : "/about_me/"
   bio              : "Data analyst. Published writer."
   location         : "Lebanon, TN"
   email            :
