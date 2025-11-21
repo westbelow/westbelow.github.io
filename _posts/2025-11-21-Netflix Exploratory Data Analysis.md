@@ -19,3 +19,5 @@ A year-over-year breakdown highlights a consistent upward trajectory in total co
 Finally, genre analysis demonstrates that drama and comedy dominate across both movies and TV shows, making them the most prominent categories on the platform. This aligns with broader viewer demand trends and underscores Netflix’s focus on delivering widely appealing content.
 ![Top movie genres](/assets/imgs/NetflixEDA/Common%20Movie%20Genres.png)
 ![Top TV genres](/assets/imgs/NetflixEDA/CommonTVShows.png)
+
+For a full breakdown, including an interactive PowerBI dashboard, [CLICK HERE](https://github.com/westbelow/Netflix-content-EDA)
