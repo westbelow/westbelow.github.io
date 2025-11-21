@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Netflix Exploratory Data Analysis - Findings"
 ---
 
