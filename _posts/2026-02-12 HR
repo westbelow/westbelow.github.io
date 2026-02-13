@@ -1,0 +1,22 @@
+---
+layout: single
+title: "HR Health Bonus Dashboard"
+---
+
+I have created an end-to-end SQL dashboard based on a dataset of absentee data for employees. 
+
+The following specifications were given:
+
+1.) Provide a list of employees that are healthy and have low absenteeism
+2.) Calculate a wage increase for non-smokers from a budget of $983,221
+3.) Create a dashboard for HR to understand absenteeism at work based on an approved wireframe. 
+
+For the first part, I used SQL to provide a count of employees that were healthiest. The criteria I used to define "healthy" were those that were not smokers, did not drink alcohol, have a body mass index (BMI) of below the national average of 25, and had a below average absentee hour time. 
+
+![Count of Healthy Workers](/assets/imgs/HR%20Bonus/HealthQuery.PNG)
+
+For the wage increase, it was a simple matter of dividing the dollar amount given from the budget by the amount of employees that are classified as non-smokers. The employees who don't smoke will get an additional $1414.40 a year in compensation. 
+
+After that, I created a dashboard using powerBI to visually represent the issue. 
+
+![Dashboard](/assets/imgs/HR%20Bonus/Dashboard.PNG)
